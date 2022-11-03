@@ -1,1 +1,41 @@
-[]
+[
+    {
+        "Author": "Sonar Team",
+        "Name": "Sonar",
+        "Punchline": "Automatically send and receive hunt and fate relays.",
+        "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. This plugin is closed source and support is only provided in the Sonar Support discord.",
+        "Changelog": "See the Sonar Support discord #announcements channel for more information",
+        "InternalName": "SonarPlugin",
+        "AssemblyVersion": "0.4.8.4",
+        "RepoUrl": "https://discord.gg/K7y24Rr",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Sonar",
+            "Hunt",
+            "Hunts",
+            "Fate",
+            "Fates",
+            "Relay",
+            "Relays",
+            "Automated",
+            "Automatic"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+        "ImageUrls": [
+            "https://assets.ffxivsonar.com/dalamud/image1.png",
+            "https://assets.ffxivsonar.com/dalamud/image2.png",
+            "https://assets.ffxivsonar.com/dalamud/image3.png",
+            "https://assets.ffxivsonar.com/dalamud/image4.png",
+            "https://assets.ffxivsonar.com/dalamud/image5.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/buengese/DalamudPlugins/raw/main/plugins/SonarPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/buengese/DalamudPlugins/raw/main/plugins/SonarPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/buengese/DalamudPlugins/raw/main/plugins/SonarPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1667500637"
+    }
+]
