@@ -6,7 +6,7 @@ from os.path import getmtime
 from zipfile import ZipFile, ZIP_DEFLATED
 
 BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
-DOWNLOAD_URL = 'https://github.com/buengese/DalamudPlugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://github.com/FFXIV-Sonar/SonarRepo/raw/{branch}/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
