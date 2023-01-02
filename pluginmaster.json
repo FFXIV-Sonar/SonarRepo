@@ -30,12 +30,12 @@
             "https://assets.ffxivsonar.com/dalamud/image4.png",
             "https://assets.ffxivsonar.com/dalamud/image5.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-Sonar/SonarRepo/raw/main/plugins/SonarPlugin/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/FFXIV-Sonar/SonarRepo/raw/main/plugins/SonarPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-Sonar/SonarRepo/raw/main/plugins/SonarPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1672669657"
+        "LastUpdate": "1672669745"
     }
 ]
