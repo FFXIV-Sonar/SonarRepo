@@ -1,6 +1,6 @@
 # SonarRepo
 
-SonarPlugin third party repository.
+SonarPlugin custom repository.
 
 To use this repository you need to add the following URL:
 - `https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/pluginmaster.json`
