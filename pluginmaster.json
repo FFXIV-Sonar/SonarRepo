@@ -6,7 +6,7 @@
         "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
         "Changelog": "See https://news.ffxivsonar.com for more information",
         "InternalName": "SonarPlugin-preview",
-        "AssemblyVersion": "0.6.9.1",
+        "AssemblyVersion": "0.6.9.2",
         "RepoUrl": "https://discord.gg/K7y24Rr",
         "ApplicableVersion": "any",
         "Tags": [
@@ -36,6 +36,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1741548670"
+        "LastUpdate": "1742221036"
     }
 ]
