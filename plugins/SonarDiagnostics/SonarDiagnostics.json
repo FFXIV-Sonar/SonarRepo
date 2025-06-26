@@ -1,0 +1,19 @@
+{
+  "Author": "Azure Gem",
+  "Name": "Sonar Diagnostics",
+  "InternalName": "SonarDiagnostics",
+  "AssemblyVersion": "0.7.2.5",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "",
+  "AcceptsFeedback": true
+}
