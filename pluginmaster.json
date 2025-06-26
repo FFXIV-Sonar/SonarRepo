@@ -6,7 +6,7 @@
         "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
         "Changelog": "See https://news.ffxivsonar.com for more information",
         "InternalName": "SonarPlugin-preview",
-        "AssemblyVersion": "0.7.2.5",
+        "AssemblyVersion": "0.7.2.6",
         "RepoUrl": "https://discord.gg/K7y24Rr",
         "ApplicableVersion": "any",
         "Tags": [
@@ -36,15 +36,15 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750950312"
+        "LastUpdate": "1750951021"
     },
     {
-        "Author": "Azure Gem",
+        "Author": "Sonar Team",
         "Name": "Sonar Diagnostics",
         "Punchline": "",
         "Description": "",
         "InternalName": "SonarDiagnostics",
-        "AssemblyVersion": "0.7.2.5",
+        "AssemblyVersion": "0.7.2.6",
         "ApplicableVersion": "any",
         "Tags": [],
         "DalamudApiLevel": 12,
@@ -55,7 +55,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750950312"
+        "LastUpdate": "1750951021"
     },
     {
         "Author": "Sonar Team",
@@ -94,6 +94,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750950312"
+        "LastUpdate": "1750951021"
     }
 ]
