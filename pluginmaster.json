@@ -36,7 +36,26 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750774902"
+        "LastUpdate": "1750950312"
+    },
+    {
+        "Author": "Azure Gem",
+        "Name": "Sonar Diagnostics",
+        "Punchline": "",
+        "Description": "",
+        "InternalName": "SonarDiagnostics",
+        "AssemblyVersion": "0.7.2.5",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 12,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1750950312"
     },
     {
         "Author": "Sonar Team",
@@ -75,6 +94,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750774902"
+        "LastUpdate": "1750950312"
     }
 ]
