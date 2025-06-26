@@ -1,8 +1,8 @@
 {
-  "Author": "Azure Gem",
+  "Author": "Sonar Team",
   "Name": "Sonar Diagnostics",
   "InternalName": "SonarDiagnostics",
-  "AssemblyVersion": "0.7.2.5",
+  "AssemblyVersion": "0.7.2.6",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [],
