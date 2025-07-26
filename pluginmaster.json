@@ -16,11 +16,11 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1752628280"
+        "LastUpdate": "1753552364"
     },
     {
         "Author": "Sonar Team",
-        "Name": "Sonar",
+        "Name": "Sonar-preview-kr",
         "Punchline": "\ub9c8\ubb3c, \ub3cc\ubc1c \uc804\ud30c\ub97c \uc790\ub3d9\uc73c\ub85c \uc8fc\uace0\ubc1b\uc2b5\ub2c8\ub2e4.",
         "Description": "\ub9c8\ubb3c, \ub3cc\ubc1c \uc804\ud30c\ub97c \uc790\ub3d9\uc73c\ub85c \uc8fc\uace0\ubc1b\uc2b5\ub2c8\ub2e4. /sonar \uba85\ub839\uc5b4\ub85c \uc54c\ub9bc \uc624\ubc84\ub808\uc774\ub97c \uc5f4\uace0, /sonarconfig \uc73c\ub85c \uc124\uc815 \ucc3d\uc744 \uc5fd\ub2c8\ub2e4. \uc9c0\uc6d0\uc740 Sonar Support Discord\uc5d0\uc11c\ub9cc \uc81c\uacf5\ub429\ub2c8\ub2e4.",
         "Changelog": "\ucd94\uac00 \uc815\ubcf4\ub294 \ub2e4\uc74c\uc758 \uc6f9\uc0ac\uc774\ud2b8\ub97c \ucc38\uace0\ud558\uc138\uc694 https://news.ffxivsonar.com",
@@ -55,7 +55,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1752628280"
+        "LastUpdate": "1753552364"
     },
     {
         "Author": "Sonar Team",
@@ -94,6 +94,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1752628280"
+        "LastUpdate": "1753552364"
     }
 ]
