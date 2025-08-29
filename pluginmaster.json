@@ -5,7 +5,7 @@
         "Punchline": "",
         "Description": "",
         "InternalName": "SonarDiagnostics",
-        "AssemblyVersion": "0.7.3.0",
+        "AssemblyVersion": "0.7.3.1",
         "ApplicableVersion": "any",
         "Tags": [],
         "DalamudApiLevel": 13,
@@ -16,7 +16,46 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1754615848"
+        "LastUpdate": "1756431658"
+    },
+    {
+        "Author": "Sonar Team",
+        "Name": "Sonar-preview",
+        "Punchline": "Automatically send and receive hunt and fate relays.",
+        "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
+        "Changelog": "See https://news.ffxivsonar.com for more information",
+        "InternalName": "SonarPlugin-preview",
+        "AssemblyVersion": "0.7.3.1",
+        "RepoUrl": "https://discord.gg/K7y24Rr",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Sonar",
+            "Hunt",
+            "Hunts",
+            "Fate",
+            "Fates",
+            "Relay",
+            "Relays",
+            "Automated",
+            "Automatic"
+        ],
+        "DalamudApiLevel": 13,
+        "LoadPriority": 0,
+        "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
+        "ImageUrls": [
+            "https://assets.ffxivsonar.com/dalamud/image1.png",
+            "https://assets.ffxivsonar.com/dalamud/image2.png",
+            "https://assets.ffxivsonar.com/dalamud/image3.png",
+            "https://assets.ffxivsonar.com/dalamud/image4.png",
+            "https://assets.ffxivsonar.com/dalamud/image5.png"
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1756431658"
     },
     {
         "Author": "Sonar Team",
@@ -55,45 +94,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1754615848"
-    },
-    {
-        "Author": "Sonar Team",
-        "Name": "Sonar-preview",
-        "Punchline": "Automatically send and receive hunt and fate relays.",
-        "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
-        "Changelog": "See https://news.ffxivsonar.com for more information",
-        "InternalName": "SonarPlugin-preview",
-        "AssemblyVersion": "0.7.3.0",
-        "RepoUrl": "https://discord.gg/K7y24Rr",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Sonar",
-            "Hunt",
-            "Hunts",
-            "Fate",
-            "Fates",
-            "Relay",
-            "Relays",
-            "Automated",
-            "Automatic"
-        ],
-        "DalamudApiLevel": 13,
-        "LoadPriority": 0,
-        "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
-        "ImageUrls": [
-            "https://assets.ffxivsonar.com/dalamud/image1.png",
-            "https://assets.ffxivsonar.com/dalamud/image2.png",
-            "https://assets.ffxivsonar.com/dalamud/image3.png",
-            "https://assets.ffxivsonar.com/dalamud/image4.png",
-            "https://assets.ffxivsonar.com/dalamud/image5.png"
-        ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1754615848"
+        "LastUpdate": "1756431658"
     }
 ]
