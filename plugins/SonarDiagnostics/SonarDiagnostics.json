@@ -2,7 +2,7 @@
   "Author": "Sonar Team",
   "Name": "Sonar Diagnostics",
   "InternalName": "SonarDiagnostics",
-  "AssemblyVersion": "0.7.4.0",
+  "AssemblyVersion": "0.7.4.1",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [],
