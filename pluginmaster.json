@@ -6,7 +6,7 @@
         "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
         "Changelog": "See https://news.ffxivsonar.com for more information",
         "InternalName": "SonarPlugin-preview",
-        "AssemblyVersion": "0.7.4.2",
+        "AssemblyVersion": "0.7.5.0",
         "RepoUrl": "https://discord.gg/K7y24Rr",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,7 +20,7 @@
             "Automated",
             "Automatic"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "LoadPriority": 0,
         "IconUrl": "https://assets.ffxivsonar.com/dalamud/logo.png",
         "ImageUrls": [
@@ -36,7 +36,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765553098"
+        "LastUpdate": "1766104187"
     },
     {
         "Author": "Sonar Team",
@@ -44,10 +44,10 @@
         "Punchline": "",
         "Description": "",
         "InternalName": "SonarDiagnostics",
-        "AssemblyVersion": "0.7.4.2",
+        "AssemblyVersion": "0.7.5.0",
         "ApplicableVersion": "any",
         "Tags": [],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "IsHide": false,
@@ -55,7 +55,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765553098"
+        "LastUpdate": "1766104187"
     },
     {
         "Author": "Sonar Team",
@@ -94,6 +94,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765553098"
+        "LastUpdate": "1766104187"
     }
 ]
