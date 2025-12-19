@@ -2,14 +2,14 @@
   "Author": "Sonar Team",
   "Name": "Sonar Diagnostics",
   "InternalName": "SonarDiagnostics",
-  "AssemblyVersion": "0.7.4.2",
+  "AssemblyVersion": "0.7.5.0",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [],
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
