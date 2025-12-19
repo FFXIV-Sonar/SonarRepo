@@ -6,7 +6,7 @@
         "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
         "Changelog": "See https://news.ffxivsonar.com for more information",
         "InternalName": "SonarPlugin-preview",
-        "AssemblyVersion": "0.7.5.0",
+        "AssemblyVersion": "0.7.5.1",
         "RepoUrl": "https://discord.gg/K7y24Rr",
         "ApplicableVersion": "any",
         "Tags": [
@@ -36,7 +36,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1766104187"
+        "LastUpdate": "1766173168"
     },
     {
         "Author": "Sonar Team",
@@ -44,7 +44,7 @@
         "Punchline": "",
         "Description": "",
         "InternalName": "SonarDiagnostics",
-        "AssemblyVersion": "0.7.5.0",
+        "AssemblyVersion": "0.7.5.1",
         "ApplicableVersion": "any",
         "Tags": [],
         "DalamudApiLevel": 14,
@@ -55,7 +55,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1766104187"
+        "LastUpdate": "1766173168"
     },
     {
         "Author": "Sonar Team",
@@ -94,6 +94,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1766104187"
+        "LastUpdate": "1766173168"
     }
 ]
