@@ -36,7 +36,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1775353635"
+        "LastUpdate": "1775391114"
     },
     {
         "Author": "Sonar Team",
@@ -55,7 +55,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1775353635"
+        "LastUpdate": "1775391114"
     },
     {
         "Author": "Sonar Team",
@@ -94,6 +94,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1775353635"
+        "LastUpdate": "1775391114"
     }
 ]
